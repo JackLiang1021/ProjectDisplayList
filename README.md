@@ -1,3 +1,4 @@
 https://github.com/JackLiang1021/EvolutionaryPicture  
 https://github.com/JackLiang1021/2D-Arm-Sim  
-https://github.com/JackLiang1021/TradingBot
+https://github.com/JackLiang1021/TradingBot  
+https://github.com/JackLiang1021/AutomatedYtShortsMaker
